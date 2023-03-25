@@ -1,1 +1,3 @@
-This is the repository for the paper G.zhang, K. Niwa, and B. Kleijn, "Lookahead Diffusion Probabilistic Models for Refining Mean Estimation", CVPR, 2023. 
+# Lookahead Diffusion Probabilistic Models for Refining Mean Estimation (CVPR2023)
+
+This repo is the PyTorch implementation for the paper [Lookahead Diffusion Probabilistic Models for Refining Mean Estimation] by Guoqiang Zhang, Kenta Niwa, and W. Bastiaan Kliejn. 
